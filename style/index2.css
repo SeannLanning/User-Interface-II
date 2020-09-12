@@ -1,0 +1,42 @@
+/* Add CSS styling here */
+
+.header {
+  background-color: black;
+  font-style: oblique;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+}
+* {
+  font-family: "comic sans ms";
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.opener {
+  display: flex;
+}
+.textcontainer {
+  max-width: 1100px;
+}
+
+.info {
+  text-align: center;
+}
+.images {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+.images2 {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+.main {
+  background-color: red;
+}
